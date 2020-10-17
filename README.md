@@ -1,0 +1,2 @@
+# vik
+ index hesaplaması yapar
